@@ -22,10 +22,19 @@ body {
 .hour,
 .minute,
 .second {
-  padding: 20px;
+  padding: 15px;
   border: solid gray 1px;
   background-color: white;
+  position: relative;
 }
 .card-text {
   font-size: 14px;
+}
+.header {
+  background: white;
+}
+
+img {
+  width: auto;
+  height: 5rem;
 }
