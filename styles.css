@@ -1,12 +1,21 @@
 * {
   font-family: "Roboto Mono", monospace;
+  /* color: rgb(0, 13, 48); */
   color: black;
 }
 h5 {
   font-weight: 700;
 }
+h5,
+h4,
+h5,
+h3,
+h2 {
+  color: rgb(0, 0, 0);
+}
 h1 {
   font-weight: 700;
+  color: rgb(0, 24, 90);
 }
 body {
   background: #466368;
@@ -31,7 +40,7 @@ body {
   font-size: 14px;
 }
 .header {
-  background: white;
+  background-color: white;
 }
 
 img {
